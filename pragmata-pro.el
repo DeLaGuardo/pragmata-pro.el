@@ -32,7 +32,7 @@
 
 (defconst pragmata-pro/space-character (vector (decode-char 'ucs #X0020) '(Br . Bl)))
 
-(defcustom pragmata-pro/version "0.826"
+(defcustom pragmata-pro/version "0.827"
   ""
   :version "25.1"
   :type '(string)
